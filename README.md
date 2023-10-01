@@ -22,6 +22,7 @@ I'm passionate to learn Advance Java Technologies.(Spring, SpringBoot, Hibernate
 ## ⚙️ Tools & Technologies I Want to Learn
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+And Many more...
 
 
 
